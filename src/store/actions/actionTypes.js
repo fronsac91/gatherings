@@ -1,0 +1,26 @@
+export const SET_TITLE = 'SET_TITLE';
+export const TOUCH_TITLE = 'TOUCH_TITLE';
+
+export const SET_DESCRIPTION = 'SET_DESCRIPTION';
+export const TOUCH_DESCRIPTION = 'TOUCH_DESCRIPTION';
+
+export const LOAD_CATEGORIES = 'LOAD_CATEGORIES';
+export const SET_CATEGORY = 'SET_CATEGORY';
+
+export const SET_PAYMENT_IS_PAID = 'SET_PAYMENT_IS_PAID';
+export const SET_PAYMENT_AMOUNT = 'SET_PAYMENT_AMOUNT';
+export const TOUCH_PAYMENT_AMOUNT = 'TOUCH_PAYMENT_AMOUNT';
+
+export const SET_REWARD = 'SET_REWARD';
+
+export const LOAD_ALL_USERS = 'LOAD_ALL_USERS';
+export const SET_RESPONSIBLE_PERSON = 'SET_RESPONSIBLE_PERSON';
+
+export const SET_EMAIL = 'SET_EMAIL';
+export const TOUCH_EMAIL = 'TOUCH_EMAIL';
+
+export const SET_DATE = 'SET_DATE';
+export const SET_TIME = 'SET_TIME';
+export const SET_IS_AM = 'SET_IS_AM';
+
+export const SET_DURATION = 'SET_DURATION';
